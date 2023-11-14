@@ -1,7 +1,7 @@
 <?php
 
 include __DIR__ . '/src/Framework/Database.php';
-require __DIR__ . "/../../vendor/autoload.php";
+require __DIR__ . '/vendor/autoload.php';
 
 use Framework\Database;
 use App\Config\Paths;
